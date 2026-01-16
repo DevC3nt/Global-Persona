@@ -1,0 +1,17 @@
+src/
+  main.tsx
+  App.tsx
+  data/
+    regions.ts
+    archetypes.ts
+  lib/
+    csv.ts
+    share.ts
+    utils.ts
+  types/
+    persona.ts
+server/
+  index.ts
+index.html
+vite.config.ts
+package.json
